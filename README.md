@@ -1,4 +1,4 @@
-# 3D_Modeling_with_Conventional_2D_LiDAR
+# 3D Space Modeling with Conventional 2D LiDAR
 High-resolution space modeling grasps the attention recently. Many domains, e.g. Building construction and Disaster evaluation, applies this technique to complete tasks more efficiently. However, industrial products cost considerable money to compose a corresponding spatial graph. In this case, we attempted to devise an algorithm to plot three-dimensional space modeling with conventional two-dimensional LiDAR. In conclusion, this low-cost device spends only three minutes to finish scanning the space and produce three-dimensional plot. It has promising future to cost down products nowadays with further algorithm optimizations.
 
 ## Hardware Settlement
